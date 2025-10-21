@@ -4,7 +4,14 @@ A native iOS productivity app built with Flutter that displays and manages memos
 
 ## Screenshots
 
-
+<p align="center">
+  <img src="images/Simulator Screenshot - iPhone 17 Pro - 2025-10-21 at 17.42.26.png" width="250" alt="Inbox View"/>
+  <img src="images/Simulator Screenshot - iPhone 17 Pro - 2025-10-21 at 17.42.48.png" width="250" alt="Task Detail"/>
+</p>
+<p align="center">
+  <img src="images/Simulator Screenshot - iPhone 17 Pro - 2025-10-21 at 17.42.35.png" width="500" alt="Landscape View"/>
+  <img src="images/Simulator Screenshot - iPhone 17 Pro - 2025-10-21 at 17.42.39.png" width="500" alt="Landscape Split View"/>
+</p>
 
 ## Features
 
@@ -61,8 +68,8 @@ This project implements the **MVVM (Model-View-ViewModel)** design pattern with 
 
 1. **Clone the repository**
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/mofetaiwo/native-iOS-inbox-app
+   cd native-iOS-inbox-app
    ```
 
 2. **Install dependencies**
